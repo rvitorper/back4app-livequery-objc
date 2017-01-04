@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Parse/Parse.h>
+#import "ParseLiveQuery-Swift.h"
+
 
 @interface ViewController : UIViewController
+
 
 
 @end
